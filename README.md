@@ -13,6 +13,11 @@ Images
 ### LR3_2
 ![LR3 second part](lr3-2.png)
 
+## LR4
+### LR4_1
+![LR4 first part](lr4-1.png)
+### LR4_2
+![LR4 second part](lr4-2.png)
 
 
 | № | IDE                | Programming language | Database           |
